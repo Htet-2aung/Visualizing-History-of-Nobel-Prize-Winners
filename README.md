@@ -31,6 +31,3 @@ In this project, you will have the opportunity to explore various aspects of thi
 
 Feel free to contribute by exploring new questions or enhancing the project with additional analyses or visualizations. Open issues for discussion and submit pull requests for any significant changes.
 
----
-
-You can replace `yourusername` with your actual GitHub username. Let me know if you need any further modifications or additional sections!
